@@ -148,7 +148,7 @@ export default function Register() {
               </svg>
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-2">Create Account</h1>
-            <p className="text-gray-600">Join MeetFlow today</p>
+            <p className="text-gray-600">Join Meetly today</p>
           </div>
 
           {/* Error Message */}
